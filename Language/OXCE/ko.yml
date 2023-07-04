@@ -1,14 +1,14 @@
 en-US:
 #=================== Basescape ===================
 #SoldierAvatarState.cpp
-  STR_AVATAR_NAME_1: "#01 ³²ÀÚ, ±Ý¹ß"
-  STR_AVATAR_NAME_2: "#02 ³²ÀÚ, °¥»ö"
-  STR_AVATAR_NAME_3: "#03 ³²ÀÚ, ¾Æ½Ã¾ÆÀÎ"
-  STR_AVATAR_NAME_4: "#04 ³²ÀÚ, ¾ÆÇÁ¸®Ä«ÀÎ"
-  STR_AVATAR_NAME_5: "#05 ¿©ÀÚ, ±Ý¹ß"
-  STR_AVATAR_NAME_6: "#06 ¿©ÀÚ, °¥»ö"
-  STR_AVATAR_NAME_7: "#07 ¿©ÀÚ, ¾Æ½Ã¾ÆÀÎ"
-  STR_AVATAR_NAME_8: "#08 ¿©ÀÚ, ¾ÆÇÁ¸®Ä«ÀÎ"
+  STR_AVATAR_NAME_1: "#01 ë‚¨ìž, ê¸ˆë°œ"
+  STR_AVATAR_NAME_2: "#02 ë‚¨ìž, ê°ˆìƒ‰"
+  STR_AVATAR_NAME_3: "#03 ë‚¨ìž, ì•„ì‹œì•„ì¸"
+  STR_AVATAR_NAME_4: "#04 ë‚¨ìž, ì•„í”„ë¦¬ì¹´ì¸"
+  STR_AVATAR_NAME_5: "#05 ì—¬ìž, ê¸ˆë°œ"
+  STR_AVATAR_NAME_6: "#06 ì—¬ìž, ê°ˆìƒ‰"
+  STR_AVATAR_NAME_7: "#07 ì—¬ìž, ì•„ì‹œì•„ì¸"
+  STR_AVATAR_NAME_8: "#08 ì—¬ìž, ì•„í”„ë¦¬ì¹´ì¸"
 #=================== Battlescape ===================
 #InventoryState.cpp
   STR_PSI_SHORT: "PSI>{ALT}{0}/{1}"
@@ -16,10 +16,10 @@ en-US:
 #DogfightState.cpp
   STR_EVASIVE_MANEUVERS: "EVASIVE MANEUVERS"
 #GeoscapeState.cpp
-  STR_UFO_HAS_LANDED: "{0}{NEWLINE}¿¡¼­ UFO°¡ Âø·ú"
+  STR_UFO_HAS_LANDED: "{0}{NEWLINE}ì—ì„œ UFOê°€ ì°©ë¥™"
 #SelectMusicTrackState.cpp
-  GMGEO1: "Áö±¸È­¸é Track #1"
-  GMGEO2: "Áö±¸È­¸é Track #2"
-  GMTACTIC: "ÀüÅõÈ­¸é Track"
+  GMGEO1: "ì§€êµ¬í™”ë©´ Track #1"
+  GMGEO2: "ì§€êµ¬í™”ë©´ Track #2"
+  GMTACTIC: "ì „íˆ¬í™”ë©´ Track"
 #==================================================================================================================
-  STR_SHOT_TYPE_AUTO: "ÀÚµ¿»ç°Ý (x{0})"
+  STR_SHOT_TYPE_AUTO: "ìžë™ì‚¬ê²© (x{0})"
